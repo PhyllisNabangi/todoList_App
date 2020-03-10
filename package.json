@@ -1,0 +1,20 @@
+{
+  "name": "todoList_App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhyllisNabangi/todoList_App.git"
+  },
+  "keywords": [],
+  "author": "Phyllis Nabangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhyllisNabangi/todoList_App/issues"
+  },
+  "homepage": "https://github.com/PhyllisNabangi/todoList_App#readme"
+}
