@@ -1,7 +1,7 @@
 {
   "name": "todoList_App",
   "version": "1.0.0",
-  "description": "",
+  "description": "todoList App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/PhyllisNabangi/todoList_App/issues"
   },
-  "homepage": "https://github.com/PhyllisNabangi/todoList_App#readme"
+  "homepage": "https://github.com/PhyllisNabangi/todoList_App#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
 }
